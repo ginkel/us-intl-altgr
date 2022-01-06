@@ -1,0 +1,10 @@
+pkgbase = kbd-us-intl-nodeadkeys
+	pkgdesc = A US international keymap for the Linux virtual console that provides accented characters via Right-Alt / AltGr.
+	pkgver = 1.0
+	pkgrel = 0
+	arch = any
+	license = Apache
+	source = us-altgr-intl-nodeadkeys.map
+	md5sums = debb02e90977c203ca83c51c84adc060
+
+pkgname = kbd-us-intl-nodeadkeys
