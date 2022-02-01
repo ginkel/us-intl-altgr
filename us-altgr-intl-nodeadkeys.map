@@ -1,5 +1,5 @@
 # us-altgr-intl-nodeadkeys.map
-# Based upon us-altgr-intl.map by Max Klinger keymap@max-klinger.org
+# Based upon us-altgr-intl.map by Max Klinger keymap@maxklinger.de
 
 # include the unusual 3 because we need to explicitely set shift+alt-gr
 keymaps 0-6,8-9,12
